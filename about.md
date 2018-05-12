@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 Hello! Thank you for visiting my blog. 
+
 I'm marster student from Kyonggi univ.
+
 I interested in Deep Learning.
 
 ### Contact me
