@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Github Pages 에 올리는 첫 글"
+title:  "알고리즘 공부 사이트"
 date:   2018-05-12 20:48:00
 ---
 
-## Numpy study
-
-numpy study from code study
+1. [코딩도장](http://codingdojang.com/)
+2. [백준](https://www.acmicpc.net/)
