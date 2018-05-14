@@ -15,8 +15,10 @@ Data camp의 [intro to python for data science](https://www.datacamp.com/courses
 
 이 가족의 BMI 지수는 몇일까요? 간단하게 생각하면 이렇게 코딩을 할 수 있습니다.
 
+
     weight / height ** 2
-    
+   
+   
 물론 당연히 에러가 납니다. 그러나 Numpy는 이런 문제들을 해결할 수 있습니다.
 
 Numpy의 특징은 다음과 같습니다.
@@ -29,8 +31,10 @@ Numpy의 특징은 다음과 같습니다.
 
 여기서 사용이 간편하다는 의미는 다음과 같습니다.
 
+
     pip insatll numpy
-    
+ 
+ 
 이 한줄이면 컴퓨터에 Numpy가 설치됩니다!
 
 
@@ -38,4 +42,6 @@ Numpy의 특징은 다음과 같습니다.
 
 
     import numpy as np
+    
+    
 as np는 Numpy를 매번 호출할때마다 귀찮으니 np로 줄여서 불러도 알아서 알아먹으라는 의미입니다.
