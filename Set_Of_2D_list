@@ -1,0 +1,6 @@
+>>> t=[[1, 7], [3, 7], [1, 7], [5, 8], [3, 7]]
+>>> t = list(set(map(tuple,t)))
+>>> t
+[(3, 7), (5, 8), (1, 7)]
+
+stackoverflow:[https://stackoverflow.com/a/31053498]
